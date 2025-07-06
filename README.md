@@ -1,5 +1,6 @@
 # 🧠 Smart AI Tasks API
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/13eb3fbe-ee10-419c-b9f9-234381079c28)
+
 A Django-powered backend that intelligently extracts and manages task data from user-generated contexts (emails, WhatsApp messages, notes, etc.). It uses AI to generate structured tasks, priorities, categories, and context summaries.
 
 ---
