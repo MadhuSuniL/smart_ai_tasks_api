@@ -1,0 +1,124 @@
+[
+  {
+    "source_type": "email",
+    "content": "Hi team, please finalize the revised roadmap slides for the client review scheduled this Friday. Ensure the design updates are reflected and all team leads have reviewed their sections."
+  },
+  {
+    "source_type": "email",
+    "content": "Reminder: Submit the quarterly compliance checklist to the audit team before end of day. Make sure all vendor risk assessments are included in the attachments."
+  },
+  {
+    "source_type": "email",
+    "content": "Client requested a detailed report on the API latency issues. Please compile metrics from the past 14 days and send it before 3 PM today."
+  },
+  {
+    "source_type": "email",
+    "content": "We need to prepare an internal memo outlining our stance on the new data retention policies. Please coordinate with legal and have a draft ready by tomorrow noon."
+  },
+  {
+    "source_type": "email",
+    "content": "Please review the attached RFP and prepare a response draft by Thursday. Focus on sections 4, 5, and 7 where we need customization inputs."
+  },
+  {
+    "source_type": "email",
+    "content": "Our vendor onboarding process needs revision. Can you write a process flow and checklist to standardize it before the next batch?"
+  },
+  {
+    "source_type": "email",
+    "content": "I’ll be on leave next week — please ensure all team meeting invites are updated and the weekly reports are shared automatically."
+  },
+  {
+    "source_type": "email",
+    "content": "Can you compile and summarize the feedback from last month’s pilot program participants? It should go into the product roadmap review."
+  },
+  {
+    "source_type": "email",
+    "content": "FYI: Our AWS credits are expiring soon. Please download the usage report and notify finance about projected spending for Q3."
+  },
+  {
+    "source_type": "email",
+    "content": "The legal team needs a summary of the licensing structure for our software. Please send a concise breakdown by EOD."
+  },
+
+  {
+    "source_type": "whatsapp",
+    "content": "Hey! Don’t forget to check the client portal. There’s a new request in the ticket system about payment options."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Can you please drop the NDA to Rajeev today? He needs to sign and return it before the contract is finalized."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Quick heads-up: The production server was restarted. Please verify that all services are back up and nothing is broken."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Reminder to call the domain registrar — we need to renew the domain before the 10th or we risk losing it."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Please send me the PDF version of the team’s performance summary. I need it before I join the 4 PM call."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Morning! Can you double check the invoice totals from yesterday’s batch? I think one of them has the wrong tax applied."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Check with IT if the VPN certificate is updated. The devs were locked out this morning, and it might be expired."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Can you resend the schedule for the onboarding sessions next week? I lost the original message."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Ping me once the Docker build completes. I need to send the deployment link to the QA team."
+  },
+  {
+    "source_type": "whatsapp",
+    "content": "Let’s not forget to cancel the HubSpot trial before it charges us. Maybe set a reminder or calendar event?"
+  },
+
+  {
+    "source_type": "note",
+    "content": "Create a checklist for the next product release: testing, documentation, announcement draft, and rollback plan."
+  },
+  {
+    "source_type": "note",
+    "content": "Check if we have an updated marketing brand kit. Might need it for the investor deck revamp."
+  },
+  {
+    "source_type": "note",
+    "content": "Research competitor pricing for the top 3 SaaS players in our category. Add your findings to the pricing strategy doc."
+  },
+  {
+    "source_type": "note",
+    "content": "Look into setting up weekly recurring meetings with the design team. Use a shared calendar invite."
+  },
+  {
+    "source_type": "note",
+    "content": "Review last month's newsletter stats and see which subject lines got the highest open rates."
+  },
+  {
+    "source_type": "note",
+    "content": "Backup the local project folder to Google Drive before formatting the laptop. Don't skip the hidden files."
+  },
+  {
+    "source_type": "note",
+    "content": "Pick a theme and title for the next blog post. Something engaging but relevant to our core offering."
+  },
+  {
+    "source_type": "note",
+    "content": "Send thank you notes to all job applicants — even the ones we’re not moving forward with. Polished touch."
+  },
+  {
+    "source_type": "note",
+    "content": "Draft a short welcome message for the company Slack’s #general channel for new joiners."
+  },
+  {
+    "source_type": "note",
+    "content": "Setup auto-responder for personal email during Diwali week. Mention alternate contact if needed."
+  }
+]

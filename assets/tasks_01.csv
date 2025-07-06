@@ -1,0 +1,21 @@
+title,description,category,tags,priority_score,priority,deadline,status
+Finalize Q3 report,Compile and review financial data for Q3 before board meeting,Finance,report-finance-q3,0.9,high,2025-07-07T10:00:00Z,pending
+Team meeting,Weekly sync with product and design teams,Work,meeting-sync-team,0.5,medium,2025-07-05T15:00:00Z,pending
+Buy groceries,Purchase essentials from the grocery store,Personal,groceries-shopping,0.3,low,2025-07-06T18:30:00Z,pending
+Fix login bug,Resolve 500 error on login page affecting production,Engineering,bug-login-urgent,0.95,high,2025-07-04T12:00:00Z,in_progress
+Plan team lunch,Organize quarterly team lunch and book restaurant,HR,lunch-event-team,0.4,medium,2025-07-10T13:00:00Z,pending
+Backup database,Run scheduled DB backup before deployment tonight,DevOps,backup-database-night,0.85,high,2025-07-04T23:30:00Z,pending
+Review resumes,Shortlist candidates for frontend intern role,HR,resume-hiring-frontend,0.6,medium,2025-07-06T17:00:00Z,pending
+Renew hosting plan,Renew domain and server plan before expiry,Finance,hosting-renewal-server,0.7,medium,2025-07-08T20:00:00Z,pending
+Create marketing plan,Draft Q4 marketing strategy and content calendar,Marketing,plan-q4-marketing,0.65,medium,2025-07-09T10:30:00Z,pending
+Pay electricity bill,Monthly electricity bill payment before due date,Personal,bill-electricity-payment,0.4,low,2025-07-05T23:59:00Z,pending
+Update documentation,Refresh outdated sections in project wiki,Product,docs-wiki-project,0.5,medium,2025-07-07T18:00:00Z,pending
+Test new release,Smoke test version 2.1 before deployment,QA,test-release-v2.1,0.75,medium,2025-07-06T09:00:00Z,pending
+Prepare invoice,Generate invoice for June and send to client,Finance,invoice-client-june,0.7,medium,2025-07-08T16:00:00Z,pending
+Doctor appointment,Visit Dr. Sharma for routine checkup,Personal,doctor-health-appointment,0.3,low,2025-07-05T10:00:00Z,pending
+Write blog post,Publish new article on company’s engineering blog,Marketing,blog-content-writing,0.55,medium,2025-07-11T11:00:00Z,pending
+Fix analytics issue,Correct broken funnel tracking in dashboard,Product,analytics-bug-tracking,0.8,high,2025-07-04T19:00:00Z,in_progress
+Design new feature,Sketch wireframes for upcoming social sharing module,Design,design-feature-ux,0.65,medium,2025-07-10T14:00:00Z,pending
+Submit expense report,File travel expenses from last week’s conference,Finance,expenses-travel-conference,0.5,medium,2025-07-06T20:00:00Z,pending
+Refactor homepage,Improve homepage performance and structure,Engineering,refactor-homepage-performance,0.6,medium,2025-07-09T12:00:00Z,pending
+Birthday reminder,Send birthday card to team member,HR,birthday-greetings-card,0.2,low,2025-07-05T09:00:00Z,pending

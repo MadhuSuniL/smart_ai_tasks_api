@@ -1,0 +1,21 @@
+title,description,category,tags,priority_score,priority,deadline,status,created At
+Birthday reminder,Send birthday card to team member,HR,birthday-greetings-card,0.2,low,2025-07-05T09:00:00+00:00,pending,2025-07-05T06:43:03.962600+00:00
+Refactor homepage,Improve homepage performance and structure,Engineering,refactor-homepage-performance,0.6,medium,2025-07-09T12:00:00+00:00,pending,2025-07-05T06:43:03.962070+00:00
+Submit expense report,File travel expenses from last week’s conference,Finance,expenses-travel-conference,0.5,medium,2025-07-06T20:00:00+00:00,pending,2025-07-05T06:43:03.961556+00:00
+Fix analytics issue,Correct broken funnel tracking in dashboard,Product,analytics-bug-tracking,0.8,high,2025-07-04T19:00:00+00:00,in_progress,2025-07-05T06:43:03.960551+00:00
+Design new feature,Sketch wireframes for upcoming social sharing module,Design,design-feature-ux,0.65,medium,2025-07-10T14:00:00+00:00,pending,2025-07-05T06:43:03.960551+00:00
+Doctor appointment,Visit Dr. Sharma for routine checkup,Personal,doctor-health-appointment,0.3,low,2025-07-05T10:00:00+00:00,pending,2025-07-05T06:43:03.959755+00:00
+Write blog post,Publish new article on company’s engineering blog,Marketing,blog-content-writing,0.55,medium,2025-07-11T11:00:00+00:00,pending,2025-07-05T06:43:03.959755+00:00
+Prepare invoice,Generate invoice for June and send to client,Finance,invoice-client-june,0.7,medium,2025-07-08T16:00:00+00:00,pending,2025-07-05T06:43:03.958757+00:00
+Update documentation,Refresh outdated sections in project wiki,Product,docs-wiki-project,0.5,medium,2025-07-07T18:00:00+00:00,pending,2025-07-05T06:43:03.957748+00:00
+Test new release,Smoke test version 2.1 before deployment,QA,test-release-v2.1,0.75,medium,2025-07-06T09:00:00+00:00,pending,2025-07-05T06:43:03.957748+00:00
+Pay electricity bill,Monthly electricity bill payment before due date,Personal,bill-electricity-payment,0.4,low,2025-07-05T23:59:00+00:00,pending,2025-07-05T06:43:03.956242+00:00
+Create marketing plan,Draft Q4 marketing strategy and content calendar,Marketing,plan-q4-marketing,0.65,medium,2025-07-09T10:30:00+00:00,pending,2025-07-05T06:43:03.956242+00:00
+Renew hosting plan,Renew domain and server plan before expiry,Finance,hosting-renewal-server,0.7,medium,2025-07-08T20:00:00+00:00,pending,2025-07-05T06:43:03.955232+00:00
+Backup database,Run scheduled DB backup before deployment tonight,DevOps,backup-database-night,0.85,high,2025-07-04T23:30:00+00:00,pending,2025-07-05T06:43:03.953716+00:00
+Review resumes,Shortlist candidates for frontend intern role,HR,resume-hiring-frontend,0.6,medium,2025-07-06T17:00:00+00:00,pending,2025-07-05T06:43:03.953716+00:00
+Plan team lunch,Organize quarterly team lunch and book restaurant,HR,lunch-event-team,0.4,medium,2025-07-10T13:00:00+00:00,pending,2025-07-05T06:43:03.952398+00:00
+Fix login bug,Resolve 500 error on login page affecting production,Engineering,bug-login-urgent,0.95,high,2025-07-04T12:00:00+00:00,in_progress,2025-07-05T06:43:03.952398+00:00
+Buy groceries,Purchase essentials from the grocery store,Personal,groceries-shopping,0.3,low,2025-07-06T18:30:00+00:00,pending,2025-07-05T06:43:03.951399+00:00
+Team meeting,Weekly sync with product and design teams,Work,meeting-sync-team,0.5,medium,2025-07-05T15:00:00+00:00,pending,2025-07-05T06:43:03.950398+00:00
+Finalize Q3 report,Compile and review financial data for Q3 before board meeting,Finance,report-finance-q3,0.9,high,2025-07-07T10:00:00+00:00,pending,2025-07-05T06:43:03.937777+00:00
