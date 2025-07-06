@@ -124,7 +124,3 @@ The backend leverages AI modules to:
 **Madhu Sunil**
 🔗 GitHub: [@MadhuSuniL](https://github.com/MadhuSuniL)
 
-```
-
-Let me know if you'd like to include a badge (e.g., Python version, Django version, or API status), or integrate with tools like Swagger or Redoc!
-```
