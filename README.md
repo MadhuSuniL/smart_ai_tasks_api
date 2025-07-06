@@ -1,17 +1,22 @@
 # 🧠 Smart AI Tasks API
-![image](https://github.com/user-attachments/assets/13eb3fbe-ee10-419c-b9f9-234381079c28)
 
-A Django-powered backend that intelligently extracts and manages task data from user-generated contexts (emails, WhatsApp messages, notes, etc.). It uses AI to generate structured tasks, priorities, categories, and context summaries.
+![Smart AI Tasks Banner](https://github.com/user-attachments/assets/13eb3fbe-ee10-419c-b9f9-234381079c28)
+
+🎥 **Preview:** [Watch Demo Video](https://drive.google.com/file/d/1tzWPgDr1_kMtZitP_WCB9lPA-Hlx3DB1/view?usp=sharing)
+
+A Django-powered backend that transforms messy user-generated inputs (WhatsApp messages, emails, notes) into structured, prioritized tasks using intelligent AI processing. Supports task filtering, import/export, and even ICS calendar generation.
 
 ---
 
-## 🚀 Live API Documentation
+## 📍 Live API Documentation
 
 📄 [View Postman API Docs](https://documenter.getpostman.com/view/38405494/2sB34cnhXn)
 
 ---
 
-## 📁 Cloning the Repository
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/MadhuSuniL/smart_ai_tasks_api.git
@@ -20,27 +25,21 @@ cd smart_ai_tasks_api
 
 ---
 
-## 🐍 Create and Activate a Virtual Environment
-
-It’s recommended to use a virtual environment:
+### 2️⃣ Create and Activate Virtual Environment
 
 ```bash
-# Create virtual env (Linux/macOS)
+# macOS / Linux
 python3 -m venv env
-
-# Create virtual env (Windows)
-python -m venv env
-
-# Activate (Linux/macOS)
 source env/bin/activate
 
-# Activate (Windows)
+# Windows
+python -m venv env
 env\Scripts\activate
 ```
 
 ---
 
-## 📦 Install Dependencies
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -48,21 +47,21 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️ Environment Setup
+### 4️⃣ Setup Environment Variables
 
-Create a `.env` file in the project root directory. Example:
+Create a `.env` file in the root directory:
 
 ```env
 DEBUG=True
-SECRET_KEY=your-secret-key-here
+SECRET_KEY=your-secret-key
 ALLOWED_HOSTS=127.0.0.1,localhost
 ```
 
-You can add other environment variables like database credentials or API keys as needed.
+> You can also include optional environment variables for database or external services.
 
 ---
 
-## 🔧 Run Migrations
+### 5️⃣ Apply Migrations
 
 ```bash
 python manage.py makemigrations
@@ -71,7 +70,7 @@ python manage.py migrate
 
 ---
 
-## 🧪 (Optional) Create a Superuser
+### 6️⃣ Create a Superuser (Optional)
 
 ```bash
 python manage.py createsuperuser
@@ -79,48 +78,53 @@ python manage.py createsuperuser
 
 ---
 
-## 🏃 Run the Development Server
+### 7️⃣ Run Development Server
 
 ```bash
 python manage.py runserver
 ```
 
-The API will be available at:
-📍 `http://127.0.0.1:8000/`
+🌐 Open in browser: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
-## ✅ Features
+## ✅ Features Overview
 
-* Context ingestion from email, WhatsApp, or notes
-* AI-generated task suggestions
-* Priority & sentiment classification
-* ICS file export support
-* Task filtering (by category, priority, status)
-* CSV import/export support
-
----
-
-## 📫 API Endpoints
-
-View all endpoints, sample requests/responses, and schema here:
-🔗 [https://documenter.getpostman.com/view/38405494/2sB34cnhXn](https://documenter.getpostman.com/view/38405494/2sB34cnhXn)
+* ✍️ Context ingestion from WhatsApp, Email, Notes
+* 🧠 AI-driven task summarization and priority scoring
+* 📊 Filtering by priority, status, and category
+* 📎 CSV import/export for task portability
+* 📅 ICS calendar file export (for Google Calendar)
+* 🔐 Token-based authentication
+* 🚀 Ready-to-integrate with React (Next.js) frontend
 
 ---
 
-## 🤖 AI Functionality
+## ⚙️ Core Endpoints
 
-This project integrates AI modules for:
+All API routes and schema examples are available in Postman docs:
 
-* Summarizing large context content
-* Predicting task importance, category, and priority
-* Extracting structured task data for seamless productivity
+📑 [API Documentation →](https://documenter.getpostman.com/view/38405494/2sB34cnhXn)
 
 ---
 
-## 💡 Author
+## 🤖 Built-in AI Capabilities
+
+The backend leverages AI modules to:
+
+* Summarize long-form user inputs
+* Infer sentiment: **Urgent**, **High Stress**, **Casual**
+* Classify tasks by category and urgency
+* Generate structured task objects from raw text
+
+---
+
+## 👨‍💻 Author
 
 **Madhu Sunil**
-GitHub: [@MadhuSuniL](https://github.com/MadhuSuniL)
+🔗 GitHub: [@MadhuSuniL](https://github.com/MadhuSuniL)
 
----
+```
+
+Let me know if you'd like to include a badge (e.g., Python version, Django version, or API status), or integrate with tools like Swagger or Redoc!
+```
